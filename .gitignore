@@ -1,0 +1,12 @@
+# # Ignore all model files
+# *.pt
+# *.pth
+# *.ckpt
+# *.h5
+# *.joblib
+# *.pkl
+
+# Ignore folders
+instructblip*/
+food-101/
+_MACOSX/

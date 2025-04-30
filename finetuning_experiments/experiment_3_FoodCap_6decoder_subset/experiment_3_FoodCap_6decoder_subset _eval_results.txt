@@ -1,0 +1,20 @@
+=== Evaluation: Finetuned ===
+Matched Pairs: 4937
+BLEU_1    : 0.2779
+BLEU_2    : 0.1448
+BLEU_3    : 0.0813
+BLEU_4    : 0.0460
+METEOR    : 0.1368
+ROUGE_L   : 0.2696
+CIDER     : 0.3935
+
+=== Evaluation: Baseline ===
+Matched Pairs: 4822
+BLEU_1    : 0.2241
+BLEU_2    : 0.1049
+BLEU_3    : 0.0508
+BLEU_4    : 0.0247
+METEOR    : 0.1234
+ROUGE_L   : 0.2067
+CIDER     : 0.1479
+
